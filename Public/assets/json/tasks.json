@@ -1,0 +1,16 @@
+{
+    "tasks": [
+        {
+            "title": "Finish ticket update",
+            "status": "urgent"
+        },
+        {
+            "title": "Create new ticket example",
+            "status": "new"
+        },
+        {
+            "title": "Update ticket report",
+            "status": "default"
+        }
+    ]
+}
